@@ -1,0 +1,15 @@
+SpaceNavy/background = u'#172024'
+SpaceNavy/currentline = u'#2f393c'
+SpaceNavy/occurence = u'#445f6b'
+SpaceNavy/ctrlclick = u'#0000ff'
+SpaceNavy/sideareas = u'#3f4b4e'
+SpaceNavy/matched_p = u'#99ff99'
+SpaceNavy/unmatched_p = u'#ff9999'
+SpaceNavy/normal = (u'#b5bfaf', False, False)
+SpaceNavy/keyword = (u'#ffc755', False, False)
+SpaceNavy/builtin = (u'#ffc755', False, False)
+SpaceNavy/definition = (u'#ffffff', True, False)
+SpaceNavy/comment = (u'#496578', False, True)
+SpaceNavy/string = (u'#7cabcc', False, False)
+SpaceNavy/number = (u'#b84c4f', False, False)
+SpaceNavy/instance = (u'#924900', False, True)
